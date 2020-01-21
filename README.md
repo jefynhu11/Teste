@@ -15,15 +15,15 @@ Thaviny Nascimento Morais
 
 - aaa
 * bbb
-1. <mark>Jeferson Lopes</mark>
-2. Gelson
-3. Idemar
-4. Eny
+1. !Jeferson Lopes
+2. !!Gelson
+3. !!!Idemar
+4. !!!!Eny
 
 [Globo](http://www.globo.com)
 [**Globo**](http://www.globo.com)
 
-{c:red}Como diria um antigo mestre:{/c}
+Como diria um antigo mestre:
 > Que a força esteja com voce
 
 # Teste automação foi feito
