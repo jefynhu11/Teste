@@ -15,3 +15,6 @@ __NEGRITO2__
 
 [Globo](http://www.globo.com)
 [**Globo**](http://www.globo.com)
+
+Como diria um antigo mestre:
+> Que a força esteja com voce
