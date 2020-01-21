@@ -35,7 +35,7 @@ Como diria um antigo mestre:
 
 ## Screenshot test
 ![Screenshot_1](https://user-images.githubusercontent.com/38334949/72829175-0b740780-3c5d-11ea-9a23-6f4275d1d4bf.jpg)
-![](C:\Users\jeferson.lopes\Pictures\CameraRoll\PrtScn\gitgithub2.png)
+![Git](C:\Users\jeferson.lopes\Pictures\CameraRoll\PrtScn\gitgithub2.png)
 
 Testng | Junit4
 ---|---
