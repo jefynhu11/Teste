@@ -24,3 +24,10 @@ Como diria um antigo mestre:
 - [x] testng
 - [ ] framework
 - [ ] classe
+
+## Tabela
+| Grupo A | Grupo B |
+| Java	  | Ruby    |
+| Python | Delphi |
+| C++ | GO |
+| C# | Assblemy |
