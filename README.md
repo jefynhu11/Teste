@@ -15,7 +15,7 @@ Thaviny Nascimento Morais
 
 - aaa
 * bbb
-1. <kbd>{c:red}Jeferson Lopes{/c}</kbd>
+1. <mark>Jeferson Lopes</mark>
 2. Gelson
 3. Idemar
 4. Eny
@@ -23,7 +23,7 @@ Thaviny Nascimento Morais
 [Globo](http://www.globo.com)
 [**Globo**](http://www.globo.com)
 
-Como diria um antigo mestre:
+{c:red}Como diria um antigo mestre:{/c}
 > Que a força esteja com voce
 
 # Teste automação foi feito
