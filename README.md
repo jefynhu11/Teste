@@ -27,6 +27,7 @@ Como diria um antigo mestre:
 
 ## Tabela
 | Grupo A | Grupo B |
+<<<<<<< HEAD
 |---------|---------|
 | Java    | Ruby    |
 | Python  | Delphi  |
@@ -34,3 +35,13 @@ Como diria um antigo mestre:
 | C#      | Assblemy|
 
 
+=======
+|----|------|
+| Java | Ruby |
+| Python | Delphi |
+| C++ | GO |
+| C# | Assblemy |
+
+### Screenshot test
+![Screenshot_1](https://user-images.githubusercontent.com/38334949/72829175-0b740780-3c5d-11ea-9a23-6f4275d1d4bf.jpg)
+>>>>>>> c607744aca9f8622bc8c9e1c0c2c685f6fd91aa4
