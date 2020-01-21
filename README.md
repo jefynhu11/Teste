@@ -27,7 +27,8 @@ Como diria um antigo mestre:
 
 ## Tabela
 | Grupo A | Grupo B |
-| Java	  | Ruby    |
+|----|------|
+| Java | Ruby |
 | Python | Delphi |
 | C++ | GO |
 | C# | Assblemy |
