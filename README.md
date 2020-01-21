@@ -10,8 +10,6 @@ __NEGRITO2__
 #### Negrito e Itálico
 **_NEGRITO E ITALICO_**
 
-[![Downloads Stats][npm-downloads]][npm-url]
-
 Jeferson Lopes Eugenio
 Thaviny Nascimento Morais
 
