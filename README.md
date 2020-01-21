@@ -22,5 +22,5 @@ Como diria um antigo mestre:
 # Teste automação foi feito
 - [x] selenium
 - [x] testng
-- [] framework
-- [] classe
+- [ ] framework
+- [ ] classe
