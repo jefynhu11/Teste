@@ -5,3 +5,6 @@ _ITÁLICO2_
 __NEGRITO2__
 ~~RISCADO~~
 **_NEGRITO E ITALICO_**
+
+- aaa
+* bbb
