@@ -18,3 +18,9 @@ __NEGRITO2__
 
 Como diria um antigo mestre:
 > Que a força esteja com voce
+
+# Teste automação foi feito
+- [x] selenium
+- [x] testng
+- [] framework
+- [] classe
